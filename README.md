@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Jay. I'm a data scientist, and I currently live in Oakland, California. I mostly program in :snake: Python and 🏴‍☠️ R. In a former life, I was an :airplane:aerospace engineer:rocket: and wrote a lot of MATLAB. 
+I'm Jay. I'm a data scientist, and I currently live in Oakland, California. I mostly program in :snake: Python and 🏴‍☠️ R. In a former life, I was an :airplane: aerospace engineer:rocket: and wrote a lot of MATLAB. 
 
 :sparkles:&nbsp;&nbsp;&nbsp;&nbsp;**Open Source Projects**
 
