@@ -7,6 +7,7 @@ I'm Jay. I'm a data scientist, and I currently live in Oakland, California. I mo
 Some of the open source projects I maintain include:
 
 - [deon](https://github.com/drivendataorg/deon): a data science ethics checklist framework and tool
+- [nbautoexport](https://github.com/drivendataorg/nbautoexport): automatically export Jupyter notebooks to other formats on save
 - [pkgnet](https://github.com/uptake/pkgnet): an R package for network analysis of R package dependencies and structure
 - [spongebob](https://github.com/jayqi/spongebob): a collection of tools for creating text in moCkInG SPoNGeboB cAsE
 
