@@ -6,9 +6,13 @@ I'm Jay. I'm a data scientist, and I currently live in Oakland, California. I mo
 
 Some of the open source projects I maintain include:
 
+- [cloudpathlib](https://github.com/drivendataorg/cloudpathlib): pathlib-style classes for cloud storage services
 - [deon](https://github.com/drivendataorg/deon): a data science ethics checklist framework and tool
+- [erdantic](https://github.com/drivendataorg/erdantic): entity-relationship diagrams for Python data classes like Pydantic
 - [nbautoexport](https://github.com/drivendataorg/nbautoexport): automatically export Jupyter notebooks to other formats on save
 - [pkgnet](https://github.com/uptake/pkgnet): an R package for network analysis of R package dependencies and structure
+- [quickhttp](https://github.com/jayqi/quickhttp): lightweight http server with automatic port-finding and shutdown
+- [reprexlite](https://github.com/jayqi/reprexlite): render reproducible examples of Python code for sharing
 - [spongebob](https://github.com/jayqi/spongebob): a collection of tools for creating text in moCkInG SPoNGeboB cAsE
 
 :sunny:&nbsp;&nbsp;&nbsp;&nbsp;**My Day Job**
