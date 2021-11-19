@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Jay. I'm a data scientist, and I currently live in Oakland, California. I mostly program in Python and R. In a former life, I was an aerospace engineer and wrote a lot of MATLAB. 
+I'm Jay. I'm a data scientist, and I currently live in Washington, DC. I mostly program in Python and R. In a former life, I was an aerospace engineer and wrote a lot of MATLAB. 
 
 :sparkles:&nbsp;&nbsp;&nbsp;&nbsp;**Open Source Projects**
 
@@ -17,7 +17,7 @@ Some of the open source projects I maintain include:
 
 :sunny:&nbsp;&nbsp;&nbsp;&nbsp;**My Day Job**
 
-I'm a Senior Data Scientist at [DrivenData](https://www.drivendata.co/), where I do full-stack data science consulting for social impact organizations.
+I'm a Lead Data Scientist at [DrivenData](https://www.drivendata.co/), where I do full-stack data science consulting for social impact organizations.
 
 :mailbox_with_no_mail:&nbsp;&nbsp;&nbsp;&nbsp;**Talk to Me!**
 
