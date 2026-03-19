@@ -10,13 +10,11 @@ Some of the open source projects I maintain include:
 - [deon](https://github.com/drivendataorg/deon): a data science ethics checklist framework and tool
 - [erdantic](https://github.com/drivendataorg/erdantic): entity-relationship diagrams for Python data classes like Pydantic
 - [pkgnet](https://github.com/uptake/pkgnet): an R package for network analysis of R package dependencies and structure
-- [quickhttp](https://github.com/jayqi/quickhttp): lightweight http server with automatic port-finding and shutdown
 - [reprexlite](https://github.com/jayqi/reprexlite): render reproducible examples of Python code for sharing
-- [spongebob](https://github.com/jayqi/spongebob): a collection of tools for creating text in moCkInG SPoNGeboB cAsE
 
 :sunny:&nbsp;&nbsp;&nbsp;&nbsp;**My Day Job**
 
-I'm a Lead Data Scientist at [DrivenData](https://www.drivendata.co/), where I do full-stack data science and data engineering consulting for social impact organizations.
+I'm a Principal Data Scientist and the Director of Engineering at [DrivenData](https://www.drivendata.co/), where I do full-stack data science and data engineering consulting for social impact organizations.
 
 :mailbox_with_no_mail:&nbsp;&nbsp;&nbsp;&nbsp;**Talk to Me!**
 
